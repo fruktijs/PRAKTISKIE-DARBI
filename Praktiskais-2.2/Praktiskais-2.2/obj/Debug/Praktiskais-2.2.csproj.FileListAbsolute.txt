@@ -1,0 +1,7 @@
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\Praktiskais-2.2\Praktiskais-2.2\bin\Debug\Praktiskais-2.2.exe.config
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\Praktiskais-2.2\Praktiskais-2.2\bin\Debug\Praktiskais-2.2.exe
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\Praktiskais-2.2\Praktiskais-2.2\bin\Debug\Praktiskais-2.2.pdb
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\Praktiskais-2.2\Praktiskais-2.2\obj\Debug\Praktiskais-2.2.csproj.AssemblyReference.cache
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\Praktiskais-2.2\Praktiskais-2.2\obj\Debug\Praktiskais-2.2.csproj.CoreCompileInputs.cache
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\Praktiskais-2.2\Praktiskais-2.2\obj\Debug\Praktiskais-2.2.exe
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\Praktiskais-2.2\Praktiskais-2.2\obj\Debug\Praktiskais-2.2.pdb

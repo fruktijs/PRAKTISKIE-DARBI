@@ -1,0 +1,7 @@
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\praktikais4-2\praktikais4-2\bin\Debug\praktikais4-2.exe.config
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\praktikais4-2\praktikais4-2\bin\Debug\praktikais4-2.exe
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\praktikais4-2\praktikais4-2\bin\Debug\praktikais4-2.pdb
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\praktikais4-2\praktikais4-2\obj\Debug\praktikais4-2.csproj.AssemblyReference.cache
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\praktikais4-2\praktikais4-2\obj\Debug\praktikais4-2.csproj.CoreCompileInputs.cache
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\praktikais4-2\praktikais4-2\obj\Debug\praktikais4-2.exe
+C:\Users\obuho\OneDrive\Desktop\Programmēšana\praktikais4-2\praktikais4-2\obj\Debug\praktikais4-2.pdb
